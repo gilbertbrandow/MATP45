@@ -22,7 +22,7 @@ The weekly sections below reproduce the official course programme. Section and p
 
 ## Week 41 (5-11 October 2026)
 
-- [ ] Lecture or presentation: Theorem 7 in Section 3.3 and Sections 4.1-4.3 (5 October; presenting a section is worth 3 of 5 presentation points and requires advance notice to the lecturer)
+- [ ] Lecture or presentation: Theorem 7 in Section 3.3 and Sections 4.1-4.3 (5 October; presenting a section is worth 3 of 5 examination points and requires advance notice to the lecturer)
 
 ## Week 42 (12-18 October 2026)
 
